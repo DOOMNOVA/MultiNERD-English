@@ -19,6 +19,6 @@ For running the files on a local device with an environment:
 ## Confusion Matrix on Test data
  The confusion matrix using the test data for both models are shown below:
  
-![Image Alt Text](Test_data_Confusion_matrix_system_A.png)
+![System A](/Test_data_Confusion_matrix_system_A.png)
 
-![Image Alt Text](Test_data_Confusion_matrix_system_B.png)
+![System B](/Test_data_Confusion_matrix_system_B.png)
