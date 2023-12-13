@@ -12,7 +12,7 @@ Person (PER), Location (LOC), Organization (ORG}), Animal (ANIM), Biological ent
 For this project only the english language examples from the dataset is used.
  
 ## Usage of Files
-The easiest way to use both the System A and System B files is run them directly on [Google Colab](https://colab.google/). 
+The easiest way to use both files is run them directly on [Google Colab](https://colab.google/). 
 
 For inference, both models are uploaded to Hugging Face - [System A](https://huggingface.co/doomnova/distilbert_system_A) , [System B](https://huggingface.co/doomnova/distilbert_system_B).
 For running the files on a local device with an environment:
