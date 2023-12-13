@@ -6,7 +6,9 @@ This repo contains .ipynb files  for finetuning Hugging Face NER(Named Entity Re
 ## Dataset
 The MultiNERD dataset is available [here](https://huggingface.co/datasets/Babelscape/multinerd).
 In the MultiNERD dataset there are 15 NER  categories :
+
 Person (PER), Location (LOC), Organization (ORG}), Animal (ANIM), Biological entity (BIO), Celestial Body (CEL), Disease (DIS), Event (EVE), Food (FOOD), Instrument (INST), Media (MEDIA), Plant (PLANT), Mythological entity (MYTH), Time (TIME) and Vehicle (VEHI);
+
 For this project only the english language examples from the dataset is used.
  
 ## Usage of Files
