@@ -1,7 +1,7 @@
 # MultiNERD-English
 NER model for MultiNERD (English) 
 
-This repo contains .ipynb files  for finetuning Hugging Face NER(Named Entity Recognition) models on the [MultiNERD dataset](https://github.com/Babelscape/multinerd) for english. The base model used is [DistillBERT](https://huggingface.co/docs/transformers/model_doc/distilbert).
+This repo contains .ipynb files  for finetuning Hugging Face NER(Named Entity Recognition) models on the [MultiNERD dataset](https://github.com/Babelscape/multinerd) for english. The base model used is [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert).
 
 ## Dataset
 The MultiNERD dataset is available [here](https://huggingface.co/datasets/Babelscape/multinerd).
